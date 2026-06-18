@@ -6,5 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_oludolapo</RootNamespace>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore"
+      Version="2.21.0" />
+  </ItemGroup>
 
 </Project>
